@@ -1,5 +1,7 @@
-body {
-    margin: 0;
+.wrapper {
+    height: 90vh;
+    margin: 40px 0 0 40px;
+    background: linear-gradient(to right, #FF5851 50%, #F8F8F8 50%);
 }
 
 .background {
